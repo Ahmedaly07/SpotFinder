@@ -1,0 +1,2 @@
+# SpotFinder
+my Spotifinder clone
